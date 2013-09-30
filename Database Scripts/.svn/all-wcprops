@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/gpspostit/!svn/ver/326/Trunk/Code/Server/Database%20Scripts
+END
+create_gpidb_local.sql
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/gpspostit/!svn/ver/260/Trunk/Code/Server/Database%20Scripts/create_gpidb_local.sql
+END
+delete_data_from_gpidb.sql
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/gpspostit/!svn/ver/326/Trunk/Code/Server/Database%20Scripts/delete_data_from_gpidb.sql
+END
+assign_gpiuser2gpidb_local.sql
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/gpspostit/!svn/ver/260/Trunk/Code/Server/Database%20Scripts/assign_gpiuser2gpidb_local.sql
+END
+create_gpidb_schema.sql
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/gpspostit/!svn/ver/326/Trunk/Code/Server/Database%20Scripts/create_gpidb_schema.sql
+END
+drop_gpidb_schema.sql
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/gpspostit/!svn/ver/326/Trunk/Code/Server/Database%20Scripts/drop_gpidb_schema.sql
+END
+create_gpiuser_local.sql
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/gpspostit/!svn/ver/260/Trunk/Code/Server/Database%20Scripts/create_gpiuser_local.sql
+END
+drop_gpiuser_local.sql
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/gpspostit/!svn/ver/260/Trunk/Code/Server/Database%20Scripts/drop_gpiuser_local.sql
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/gpspostit/!svn/ver/16/Trunk/Code/Server/Database%20Scripts/README.txt
+END

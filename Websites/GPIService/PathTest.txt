@@ -1,0 +1,64 @@
+Pass in null username/password to login method.
+Pass in empty username/password to login method.
+Try to login while no connection to database (Fudge with the connection string to achieve this.)
+Try to login with invalid user name/password.
+Try to login too many times with the same username (> 10).
+Login success case.
+Pass in null or empty arguments to logout.
+Try to logout while not logged in.
+Logout success case.
+Try to author pin while not logged in.
+Pass in null arguments to AuthorPin.
+AuthorPin success case.
+Pass null arguments to DeletePins.
+Try to delete pins while not logged in.
+Try to delete another user's pin. This should fail.
+Try to delete some pins of your own together with some pins another user. This should fail as a whole.
+Try to delete a pin that does not exist.
+DeletePins success case (both single and multiple pins).
+Pass null arguments to ModifyPin.
+Try to modify a pin while not logged in.
+Try to modify another user's pin.
+ModifyPin success case (modify pin, add attachment, modify attachment, delete attachment).
+Pass null arguments to RatePin.
+Try to rate a pin while not logged in.
+Try to rate a pin lower than 1 or higher than 5.
+RatePin success case.
+Pass in null arguments to GetPins.
+Try to get pins while not logged in. This should succeed if validation is turned off, otherwise it should fail.
+GetPins success case
+  -- Filter by timestamp:none within range, some within range, all within range
+  -- Filter by disposition: highest rated/most recent
+  -- Filter by tags: both match and no match; input multiple tags (returns an OR of the tags)
+  -- Page: Among 10 pins, get pagesize of 1, 3, 11. Among 10 pins, start at pin 3 and get pagesize of 1, 3, 11. 
+Pass in null arguments to GetAttachment.
+Try to get attachment while not logged in.
+GetAttachment success case.
+Pass null arguments to GetGroups.
+Try to get groups while not logged in.
+Get groups success case.
+Pass null arguments to CreateGroup.
+Try to create a group while not logged in.
+Try to create a group that already exists for this user.
+Try to create a group called, say, 'friends' for user1. Create another group called 'friends' for a different user, user2. This should succeed.
+CreateGroup success case.
+Pass null arguments to AddUserToGroup
+Try to add user to group while not logged in.
+Try to add user to a group that the creator does not own.
+Try to add non-existent user to group that the creator owns.
+Try to add a user to a group who is already a member of the group.
+AddUserToGroup success case.
+Pass null arguments to GetUsersInGroup.
+Try to get users in group while not logged in.
+GetUsersInGroup success case.
+Pass null arguments to RemoveUserFromGroup
+Try to remove user from group while not logged in.
+Try to remove user from a group that the creator does not own.
+Try to remove non-existent user from group that the creator owns.
+Try to remove a user from a group who has already been removed.
+RemoveUserFromGroup success case.
+Pass null arguments to RemoveGroup
+Try to remove group while not logged in.
+Try to remove group that the creator does not own.
+RemoveGroup success case.
+

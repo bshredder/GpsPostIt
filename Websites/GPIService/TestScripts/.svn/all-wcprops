@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/gpspostit/!svn/ver/443/Trunk/Code/Server/Websites/GPIService/TestScripts
+END
+3TestGPIService_ModifyPin.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/gpspostit/!svn/ver/327/Trunk/Code/Server/Websites/GPIService/TestScripts/3TestGPIService_ModifyPin.aspx.cs
+END
+8TestGPIService_GetReturnCodes.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/gpspostit/!svn/ver/327/Trunk/Code/Server/Websites/GPIService/TestScripts/8TestGPIService_GetReturnCodes.aspx
+END
+5TestGPIService_RatePin.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/gpspostit/!svn/ver/255/Trunk/Code/Server/Websites/GPIService/TestScripts/5TestGPIService_RatePin.aspx
+END
+1TestGPIService_AuthorPinEx.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/gpspostit/!svn/ver/255/Trunk/Code/Server/Websites/GPIService/TestScripts/1TestGPIService_AuthorPinEx.aspx
+END
+0TestGPIService_Login.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/gpspostit/!svn/ver/327/Trunk/Code/Server/Websites/GPIService/TestScripts/0TestGPIService_Login.aspx
+END
+8TestGPIService_GetReturnCodes.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/gpspostit/!svn/ver/350/Trunk/Code/Server/Websites/GPIService/TestScripts/8TestGPIService_GetReturnCodes.aspx.cs
+END
+5TestGPIService_RatePin.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/gpspostit/!svn/ver/327/Trunk/Code/Server/Websites/GPIService/TestScripts/5TestGPIService_RatePin.aspx.cs
+END
+1TestGPIService_AuthorPinEx.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/gpspostit/!svn/ver/327/Trunk/Code/Server/Websites/GPIService/TestScripts/1TestGPIService_AuthorPinEx.aspx.cs
+END
+6TestGPIService_WriteErrorLog.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/gpspostit/!svn/ver/279/Trunk/Code/Server/Websites/GPIService/TestScripts/6TestGPIService_WriteErrorLog.aspx
+END
+0TestGPIService_Login.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/gpspostit/!svn/ver/327/Trunk/Code/Server/Websites/GPIService/TestScripts/0TestGPIService_Login.aspx.cs
+END
+6TestGPIService_WriteErrorLog.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/gpspostit/!svn/ver/350/Trunk/Code/Server/Websites/GPIService/TestScripts/6TestGPIService_WriteErrorLog.aspx.cs
+END
+4TestGPIService_GetPins_GetAttachment.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/gpspostit/!svn/ver/270/Trunk/Code/Server/Websites/GPIService/TestScripts/4TestGPIService_GetPins_GetAttachment.aspx
+END
+7TestGPIService_Groups.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/gpspostit/!svn/ver/327/Trunk/Code/Server/Websites/GPIService/TestScripts/7TestGPIService_Groups.aspx
+END
+4TestGPIService_GetPins_GetAttachment.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/gpspostit/!svn/ver/443/Trunk/Code/Server/Websites/GPIService/TestScripts/4TestGPIService_GetPins_GetAttachment.aspx.cs
+END
+7TestGPIService_Groups.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/gpspostit/!svn/ver/327/Trunk/Code/Server/Websites/GPIService/TestScripts/7TestGPIService_Groups.aspx.cs
+END
+2TestGPIService_DeletePins.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/gpspostit/!svn/ver/249/Trunk/Code/Server/Websites/GPIService/TestScripts/2TestGPIService_DeletePins.aspx
+END
+3TestGPIService_ModifyPin.aspx
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/gpspostit/!svn/ver/251/Trunk/Code/Server/Websites/GPIService/TestScripts/3TestGPIService_ModifyPin.aspx
+END
+2TestGPIService_DeletePins.aspx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/gpspostit/!svn/ver/327/Trunk/Code/Server/Websites/GPIService/TestScripts/2TestGPIService_DeletePins.aspx.cs
+END

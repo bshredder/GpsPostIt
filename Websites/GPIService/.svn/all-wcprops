@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/gpspostit/!svn/ver/450/Trunk/Code/Server/Websites/GPIService
+END
+Web.Config
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/gpspostit/!svn/ver/519/Trunk/Code/Server/Websites/GPIService/Web.Config
+END
+GPIService.asmx
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/gpspostit/!svn/ver/1/Trunk/Code/Server/Websites/GPIService/GPIService.asmx
+END
+GPIService_S.asmx
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/gpspostit/!svn/ver/14/Trunk/Code/Server/Websites/GPIService/GPIService_S.asmx
+END
+PathTest.txt
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/gpspostit/!svn/ver/327/Trunk/Code/Server/Websites/GPIService/PathTest.txt
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/gpspostit/!svn/ver/260/Trunk/Code/Server/Database%20Scripts/Unit%20Test
+END
+Test_GpiLoginUser.sql
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/gpspostit/!svn/ver/260/Trunk/Code/Server/Database%20Scripts/Unit%20Test/Test_GpiLoginUser.sql
+END
+Test_GpiLogoutUser.sql
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/gpspostit/!svn/ver/260/Trunk/Code/Server/Database%20Scripts/Unit%20Test/Test_GpiLogoutUser.sql
+END

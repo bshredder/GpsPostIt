@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/gpspostit/!svn/ver/450/Trunk/Code/Server/Websites/GPIService/App_Code
+END
+GetTagsResponse.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/gpspostit/!svn/ver/519/Trunk/Code/Server/Websites/GPIService/App_Code/GetTagsResponse.cs
+END
+GPIService_S.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/gpspostit/!svn/ver/450/Trunk/Code/Server/Websites/GPIService/App_Code/GPIService_S.cs
+END
+UserDetails.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/gpspostit/!svn/ver/327/Trunk/Code/Server/Websites/GPIService/App_Code/UserDetails.cs
+END
+ServerReturnCodes.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/gpspostit/!svn/ver/519/Trunk/Code/Server/Websites/GPIService/App_Code/ServerReturnCodes.cs
+END
+GetUsersInGroupResponse.cs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/gpspostit/!svn/ver/327/Trunk/Code/Server/Websites/GPIService/App_Code/GetUsersInGroupResponse.cs
+END
+ServerResponse.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/gpspostit/!svn/ver/251/Trunk/Code/Server/Websites/GPIService/App_Code/ServerResponse.cs
+END
+AuthorPinExResponse.cs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/gpspostit/!svn/ver/251/Trunk/Code/Server/Websites/GPIService/App_Code/AuthorPinExResponse.cs
+END
+GetPinsExResponse.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/gpspostit/!svn/ver/251/Trunk/Code/Server/Websites/GPIService/App_Code/GetPinsExResponse.cs
+END
+LoginResponse.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/gpspostit/!svn/ver/251/Trunk/Code/Server/Websites/GPIService/App_Code/LoginResponse.cs
+END
+BasicFilter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/gpspostit/!svn/ver/270/Trunk/Code/Server/Websites/GPIService/App_Code/BasicFilter.cs
+END
+SoapExceptionGenerator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/gpspostit/!svn/ver/61/Trunk/Code/Server/Websites/GPIService/App_Code/SoapExceptionGenerator.cs
+END
+RemoveGroupResponse.cs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/gpspostit/!svn/ver/327/Trunk/Code/Server/Websites/GPIService/App_Code/RemoveGroupResponse.cs
+END
+ClientInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/gpspostit/!svn/ver/279/Trunk/Code/Server/Websites/GPIService/App_Code/ClientInfo.cs
+END
+CreateGroupResponse.cs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/gpspostit/!svn/ver/327/Trunk/Code/Server/Websites/GPIService/App_Code/CreateGroupResponse.cs
+END
+BasicPager.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/gpspostit/!svn/ver/279/Trunk/Code/Server/Websites/GPIService/App_Code/BasicPager.cs
+END
+GroupDetails.cs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/gpspostit/!svn/ver/327/Trunk/Code/Server/Websites/GPIService/App_Code/GroupDetails.cs
+END
+ServerConstants.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/gpspostit/!svn/ver/519/Trunk/Code/Server/Websites/GPIService/App_Code/ServerConstants.cs
+END
+GetReturnCodesResponse.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/gpspostit/!svn/ver/327/Trunk/Code/Server/Websites/GPIService/App_Code/GetReturnCodesResponse.cs
+END
+RemoveUserFromGroupResponse.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/gpspostit/!svn/ver/327/Trunk/Code/Server/Websites/GPIService/App_Code/RemoveUserFromGroupResponse.cs
+END
+ModifyPinResponse.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/gpspostit/!svn/ver/251/Trunk/Code/Server/Websites/GPIService/App_Code/ModifyPinResponse.cs
+END
+RatePinResponse.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/gpspostit/!svn/ver/255/Trunk/Code/Server/Websites/GPIService/App_Code/RatePinResponse.cs
+END
+TagDetails.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/gpspostit/!svn/ver/519/Trunk/Code/Server/Websites/GPIService/App_Code/TagDetails.cs
+END
+RatingToken.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/gpspostit/!svn/ver/255/Trunk/Code/Server/Websites/GPIService/App_Code/RatingToken.cs
+END
+AddUserToGroupResponse.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/gpspostit/!svn/ver/327/Trunk/Code/Server/Websites/GPIService/App_Code/AddUserToGroupResponse.cs
+END
+DeletePinResponse.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/gpspostit/!svn/ver/251/Trunk/Code/Server/Websites/GPIService/App_Code/DeletePinResponse.cs
+END
+LogoutResponse.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/gpspostit/!svn/ver/251/Trunk/Code/Server/Websites/GPIService/App_Code/LogoutResponse.cs
+END
+PinDetails.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/gpspostit/!svn/ver/301/Trunk/Code/Server/Websites/GPIService/App_Code/PinDetails.cs
+END
+Credentials.cs
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/gpspostit/!svn/ver/249/Trunk/Code/Server/Websites/GPIService/App_Code/Credentials.cs
+END
+AttachmentOperation_ksoapHack.cs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/gpspostit/!svn/ver/449/Trunk/Code/Server/Websites/GPIService/App_Code/AttachmentOperation_ksoapHack.cs
+END
+GetGroupsResponse.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/gpspostit/!svn/ver/327/Trunk/Code/Server/Websites/GPIService/App_Code/GetGroupsResponse.cs
+END
+ServerReturnMessages.cs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/gpspostit/!svn/ver/350/Trunk/Code/Server/Websites/GPIService/App_Code/ServerReturnMessages.cs
+END
+GPIService.cs
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/gpspostit/!svn/ver/519/Trunk/Code/Server/Websites/GPIService/App_Code/GPIService.cs
+END
+GetAttachmentResponse.cs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/gpspostit/!svn/ver/251/Trunk/Code/Server/Websites/GPIService/App_Code/GetAttachmentResponse.cs
+END
+AttachmentOperation.cs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/gpspostit/!svn/ver/249/Trunk/Code/Server/Websites/GPIService/App_Code/AttachmentOperation.cs
+END
